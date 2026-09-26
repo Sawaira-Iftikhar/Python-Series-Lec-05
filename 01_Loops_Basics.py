@@ -69,3 +69,7 @@ for character in word:
     print(character)
 
 print()
+
+# 2. Print each character with its index
+for index in range(len(word)):
+    print(index, "->", word[index])
