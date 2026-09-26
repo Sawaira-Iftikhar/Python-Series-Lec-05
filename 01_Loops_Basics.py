@@ -121,3 +121,10 @@ number = 5
 while number >= 1:
     print(number)
     number -= 1
+
+# 3) Print "Hello!" exactly 3 times
+count = 1
+
+while count <= 3:
+    print("Hello!")
+    count += 1
