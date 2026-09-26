@@ -108,3 +108,13 @@ for number in numbers:
 print("Greater than 5:", greater_than_5)
 
 #-----------------------------------------------------------------------------------------
+
+# Q4. MODIFYING A LIST WHILE LOOPING:
+#     Given: scores = [45, 82, 33, 91, 67, 55, 78]
+#     Create a new list called `grades` by looping through scores:
+#     - Score >= 90 → "A"
+#     - Score >= 70 → "B"
+#     - Score >= 50 → "C"
+#     - Score < 50  → "F"
+#     Print both lists side by side.
+
