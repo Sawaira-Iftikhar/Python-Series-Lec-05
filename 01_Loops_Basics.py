@@ -103,7 +103,7 @@ print("5! =", factorial)
 #  PART B: while LOOP 
 # ==========================================
 
-# Q6. BASIC while LOOP:
+# Q5. BASIC while LOOP:
 #     a) Print numbers from 1 to 5 using a while loop
 #     b) Print a countdown from 5 to 1 using a while loop
 #     c) Print "Hello!" exactly 3 times using a while loop
