@@ -45,3 +45,6 @@ for fruit in fruits:
 #     a) Print each price with its index: "Item 0: Rs.120"
 #     b) Calculate the total of all prices
 #     c) Find the maximum price using a loop (don't use max())
+
+
+prices = [120, 350, 80, 500, 200]
