@@ -62,4 +62,5 @@ for number in range(10, 0, -1):
 #     a) Print each character on a new line using a for loop
 #     b) Print each character with its index using range(len(word))
 
+word = "PYTHON"
 
