@@ -80,3 +80,12 @@ print("Maximum: Rs.", maximum)
 #     Print all three new lists.
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# 1) Create a new list containing only EVEN numbers
+evens = []
+
+for number in numbers:
+    if number % 2 == 0:
+        evens.append(number)
+
+print("Evens:", evens)
