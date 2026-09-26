@@ -44,3 +44,9 @@ for number in range(0, 21, 2):
     print(number, end=" ")
 
 print()
+
+# 4. Odd numbers from 1 to 19
+for number in range(1, 20, 2):
+    print(number, end=" ")
+
+print()
