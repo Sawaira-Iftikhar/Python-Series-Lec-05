@@ -52,3 +52,11 @@ prices = [120, 350, 80, 500, 200]
 # 1) Print each price with its index
 for index in range(len(prices)):
     print(f"Item {index}: Rs.{prices[index]}")
+
+# 2) Calculate the total
+total = 0
+
+for index in range(len(prices)):
+    total += prices[index]
+
+print("Total: Rs.", total)
