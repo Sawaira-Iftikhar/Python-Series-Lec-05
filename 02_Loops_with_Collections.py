@@ -69,3 +69,5 @@ for index in range(len(prices)):
         maximum = prices[index]
 
 print("Maximum: Rs.", maximum)
+
+#-----------------------------------------------------------------------------------------
