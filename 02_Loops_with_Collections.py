@@ -71,3 +71,10 @@ for index in range(len(prices)):
 print("Maximum: Rs.", maximum)
 
 #-----------------------------------------------------------------------------------------
+
+# Q3. BUILDING A NEW LIST FROM A LOOP:
+#     Given: numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#     a) Create a new list containing only EVEN numbers
+#     b) Create a new list containing the SQUARE of each number
+#     c) Create a new list containing numbers greater than 5
+#     Print all three new lists.
