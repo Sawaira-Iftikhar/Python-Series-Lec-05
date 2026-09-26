@@ -64,3 +64,8 @@ for number in range(10, 0, -1):
 
 word = "PYTHON"
 
+# 1. Print each character on a new line
+for character in word:
+    print(character)
+
+print()
