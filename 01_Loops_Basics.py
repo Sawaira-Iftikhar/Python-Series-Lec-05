@@ -166,3 +166,8 @@ print("Number of digits in 987654:", digit_count)
 #  PART C: for vs while COMPARISON 
 # ==========================================
 
+# Q7. SAME TASK, TWO WAYS:
+#     Print all multiples of 3 from 3 to 30:
+#     a) Using a for loop with range()
+#     b) Using a while loop
+#     Both should produce the same output.
