@@ -89,3 +89,11 @@ for number in numbers:
         evens.append(number)
 
 print("Evens:", evens)
+
+# 2) Create a new list containing the SQUARE of each number
+squares = []
+
+for number in numbers:
+    squares.append(number ** 2)
+
+print("Squares:", squares)
