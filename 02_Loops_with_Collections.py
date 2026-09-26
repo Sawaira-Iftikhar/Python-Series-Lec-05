@@ -19,3 +19,9 @@
 
 
 fruits = ["apple", "banana", "cherry", "date", "elderberry"]
+
+# 1) Print each fruit
+for fruit in fruits:
+    print(fruit)
+
+print()
