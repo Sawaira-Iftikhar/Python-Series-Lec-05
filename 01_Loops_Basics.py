@@ -108,9 +108,16 @@ print("5! =", factorial)
 #     b) Print a countdown from 5 to 1 using a while loop
 #     c) Print "Hello!" exactly 3 times using a while loop
 
-# 1. Print numbers from 1 to 5
+# 1) Print numbers from 1 to 5
 number = 1
 
 while number <= 5:
     print(number)
     number += 1
+
+# 2) Countdown from 5 to 1
+number = 5
+
+while number >= 1:
+    print(number)
+    number -= 1
