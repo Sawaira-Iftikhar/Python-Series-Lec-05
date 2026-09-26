@@ -48,3 +48,7 @@ for fruit in fruits:
 
 
 prices = [120, 350, 80, 500, 200]
+
+# 1) Print each price with its index
+for index in range(len(prices)):
+    print(f"Item {index}: Rs.{prices[index]}")
