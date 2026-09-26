@@ -27,3 +27,8 @@ for number in range(1, 6):
 #     d) Odd numbers from 1 to 19
 #     e) Countdown from 10 to 1
 
+# 1.  0 to 9
+for number in range(10):
+    print(number, end=" ")
+
+print()
