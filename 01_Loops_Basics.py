@@ -178,3 +178,10 @@ for number in range(3, 31, 3):
     print(number, end=" ")
 
 print()
+
+# 2) Using a while loop
+number = 3
+
+while number <= 30:
+    print(number, end=" ")
+    number += 3
