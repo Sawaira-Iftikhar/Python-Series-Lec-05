@@ -97,3 +97,12 @@ for number in numbers:
     squares.append(number ** 2)
 
 print("Squares:", squares)
+
+# 3) Create a new list containing numbers greater than 5
+greater_than_5 = []
+
+for number in numbers:
+    if number > 5:
+        greater_than_5.append(number)
+
+print("Greater than 5:", greater_than_5)
