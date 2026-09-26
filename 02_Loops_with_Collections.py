@@ -118,3 +118,8 @@ print("Greater than 5:", greater_than_5)
 #     - Score < 50  → "F"
 #     Print both lists side by side.
 
+
+scores = [45, 82, 33, 91, 67, 55, 78]
+
+# Create a new list to store grades
+grades = []
