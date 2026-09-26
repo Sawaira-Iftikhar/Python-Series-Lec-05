@@ -126,10 +126,10 @@ grades = []
 
 # Loop through each score
 for score in scores:
-    # Score >= 90 → "A"
+    # Score >= 90  "A"
     if score >= 90:
         grades.append("A")
 
-    # Score >= 70 → "B"
+    # Score >= 70  "B"
     elif score >= 70:
         grades.append("B")
