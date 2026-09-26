@@ -38,3 +38,10 @@ for fruit in fruits:
         print(fruit)
 
 #-----------------------------------------------------------------------------------------
+
+# Q2. INDEX-BASED ITERATION:
+#     Given: prices = [120, 350, 80, 500, 200]
+#     Use range(len(prices)) to:
+#     a) Print each price with its index: "Item 0: Rs.120"
+#     b) Calculate the total of all prices
+#     c) Find the maximum price using a loop (don't use max())
