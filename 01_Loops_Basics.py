@@ -38,3 +38,9 @@ for number in range(5, 16):
     print(number, end=" ")
 
 print()
+
+# 3. Even numbers from 0 to 20
+for number in range(0, 21, 2):
+    print(number, end=" ")
+
+print()
