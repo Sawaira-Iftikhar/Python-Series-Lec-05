@@ -123,3 +123,9 @@ scores = [45, 82, 33, 91, 67, 55, 78]
 
 # Create a new list to store grades
 grades = []
+
+# Loop through each score
+for score in scores:
+    # Score >= 90 → "A"
+    if score >= 90:
+        grades.append("A")
