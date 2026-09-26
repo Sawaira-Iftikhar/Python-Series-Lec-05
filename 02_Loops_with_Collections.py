@@ -78,3 +78,5 @@ print("Maximum: Rs.", maximum)
 #     b) Create a new list containing the SQUARE of each number
 #     c) Create a new list containing numbers greater than 5
 #     Print all three new lists.
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
