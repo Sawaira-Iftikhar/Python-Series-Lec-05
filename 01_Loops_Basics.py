@@ -50,3 +50,7 @@ for number in range(1, 20, 2):
     print(number, end=" ")
 
 print()
+
+# 5. Countdown from 10 to 1
+for number in range(10, 0, -1):
+    print(number, end=" ")
