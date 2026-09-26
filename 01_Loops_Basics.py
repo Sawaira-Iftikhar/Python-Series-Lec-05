@@ -32,3 +32,9 @@ for number in range(10):
     print(number, end=" ")
 
 print()
+
+# 2. 5 to 15
+for number in range(5, 16):
+    print(number, end=" ")
+
+print()
