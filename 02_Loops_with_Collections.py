@@ -31,3 +31,8 @@ for fruit in fruits:
     print(fruit.upper())
 
 print()
+
+# 3) Print fruits with more than 5 characters
+for fruit in fruits:
+    if len(fruit) > 5:
+        print(fruit)
