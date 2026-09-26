@@ -133,3 +133,7 @@ for score in scores:
     # Score >= 70  "B"
     elif score >= 70:
         grades.append("B")
+
+  # Score >= 50  "C"
+    elif score >= 50:
+        grades.append("C")
