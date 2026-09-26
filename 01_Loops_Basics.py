@@ -18,3 +18,12 @@ for number in range(1, 6):
     print(number)
 
 #----------------------------------------------------------------------------------------
+
+# Q2. range() VARIATIONS:
+#     Print the following sequences using range() inside a for loop:
+#     a) 0 to 9
+#     b) 5 to 15
+#     c) Even numbers from 0 to 20
+#     d) Odd numbers from 1 to 19
+#     e) Countdown from 10 to 1
+
