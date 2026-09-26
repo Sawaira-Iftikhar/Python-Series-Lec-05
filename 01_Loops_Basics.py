@@ -148,3 +148,14 @@ while number > 0:
     number //= 10
 
 print("Sum of digits of 12345:", digit_sum)
+
+
+# 2) Count digits in 987654
+number = 987654
+digit_count = 0
+
+while number > 0:
+    number //= 10
+    digit_count += 1
+
+print("Number of digits in 987654:", digit_count)
