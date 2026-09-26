@@ -75,3 +75,8 @@ for index in range(len(word)):
     print(index, "->", word[index])
 
 #----------------------------------------------------------------------------------------
+
+# Q4. SUM & PRODUCT USING for LOOP:
+#     a) Calculate the sum of numbers from 1 to 100 using a for loop
+#     b) Calculate the factorial of 5 (5! = 5 × 4 × 3 × 2 × 1) using a for loop
+
