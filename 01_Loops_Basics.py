@@ -171,3 +171,10 @@ print("Number of digits in 987654:", digit_count)
 #     a) Using a for loop with range()
 #     b) Using a while loop
 #     Both should produce the same output.
+
+
+# 1) Using a for loop
+for number in range(3, 31, 3):
+    print(number, end=" ")
+
+print()
