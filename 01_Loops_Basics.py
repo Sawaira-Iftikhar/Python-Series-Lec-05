@@ -80,3 +80,12 @@ for index in range(len(word)):
 #     a) Calculate the sum of numbers from 1 to 100 using a for loop
 #     b) Calculate the factorial of 5 (5! = 5 × 4 × 3 × 2 × 1) using a for loop
 
+
+# 1. Sum of numbers from 1 to 100
+total = 0
+
+for number in range(1, 101):
+    total += number
+
+print("Sum 1 to 100:", total)
+
