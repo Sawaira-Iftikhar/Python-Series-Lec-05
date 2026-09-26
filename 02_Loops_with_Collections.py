@@ -25,3 +25,9 @@ for fruit in fruits:
     print(fruit)
 
 print()
+
+# 2) Print each fruit in uppercase
+for fruit in fruits:
+    print(fruit.upper())
+
+print()
