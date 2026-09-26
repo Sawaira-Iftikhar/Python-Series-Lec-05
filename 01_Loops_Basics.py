@@ -130,3 +130,9 @@ while count <= 3:
     count += 1
 
 #----------------------------------------------------------------------------------------
+
+# Q6. while LOOP WITH ACCUMULATOR:
+#     a) Calculate the sum of digits of the number 12345 using a while loop.
+#        HINT: Use % 10 to get the last digit and // 10 to remove it.
+#     b) Count how many digits are in the number 987654 using a while loop.
+
