@@ -60,3 +60,12 @@ for index in range(len(prices)):
     total += prices[index]
 
 print("Total: Rs.", total)
+
+# 3) Find the maximum price
+maximum = prices[0]
+
+for index in range(len(prices)):
+    if prices[index] > maximum:
+        maximum = prices[index]
+
+print("Maximum: Rs.", maximum)
