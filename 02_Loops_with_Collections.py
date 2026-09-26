@@ -141,3 +141,7 @@ for score in scores:
    # Score < 50  "F"
     else:
         grades.append("F")
+
+# Print both lists
+print("Scores:", scores)
+print("Grades:", grades)
