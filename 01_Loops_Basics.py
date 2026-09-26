@@ -136,3 +136,15 @@ while count <= 3:
 #        HINT: Use % 10 to get the last digit and // 10 to remove it.
 #     b) Count how many digits are in the number 987654 using a while loop.
 
+
+
+# 1) Sum of digits of 12345
+number = 12345
+digit_sum = 0
+
+while number > 0:
+    digit = number % 10
+    digit_sum += digit
+    number //= 10
+
+print("Sum of digits of 12345:", digit_sum)
