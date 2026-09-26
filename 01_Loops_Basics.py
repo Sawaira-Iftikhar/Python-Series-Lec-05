@@ -89,3 +89,11 @@ for number in range(1, 101):
 
 print("Sum 1 to 100:", total)
 
+# 2. Factorial of 5
+factorial = 1
+
+for number in range(1, 6):
+    factorial *= number
+
+print("5! =", factorial)
+
