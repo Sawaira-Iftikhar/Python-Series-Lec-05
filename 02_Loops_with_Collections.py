@@ -260,3 +260,8 @@ values = ["Zainab", 24, "Lahore", "Developer"]
 
 # Create a dictionary by matching each key with its value
 result = {}
+
+for i in range(len(keys)):
+    result[keys[i]] = values[i]
+
+print(result)
