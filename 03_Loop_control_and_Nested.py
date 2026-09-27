@@ -74,3 +74,5 @@ while i < len(contacts):
 
 i += 1
 
+if not found:
+    print("Contact not found.")
