@@ -167,3 +167,5 @@ for color in colors:
 
     if len(color) > 4:
         count += 1
+
+print(f"Colors with > 4 chars: {count}")
