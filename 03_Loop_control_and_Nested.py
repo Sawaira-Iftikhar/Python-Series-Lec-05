@@ -17,3 +17,6 @@
 #     Once found, print it and break out of the loop.
 
 numbers = [12, 45, 7, 23, 99, 34, 56, 8]
+
+i = 0
+
