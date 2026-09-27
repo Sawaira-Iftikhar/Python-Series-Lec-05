@@ -115,3 +115,10 @@ while row <= 5:
 #     "Vegetables: Carrot, Spinach, Potato"
 #
 #     HINT: Use range(len(categories)) to access both lists by index.
+
+categories = ["Fruits", "Vegetables"]
+
+items = [
+    ["Apple", "Banana", "Mango"],
+    ["Carrot", "Spinach", "Potato"]
+]
