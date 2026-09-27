@@ -195,3 +195,5 @@ for name, score in students:
     if score > highest_score:
         highest_score = score
         topper = name
+        
+average = total / len(students)
