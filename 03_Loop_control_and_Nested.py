@@ -126,3 +126,9 @@ items = [
 # Outer loop: goes through each category
 for i in range(len(categories)):
     print(f"{categories[i]}:", end=" ")
+
+  # Inner loop: goes through items in the current category
+    for item in items[i]:
+        print(item, end=", " if item != items[i][-1] else "")
+
+    print()
