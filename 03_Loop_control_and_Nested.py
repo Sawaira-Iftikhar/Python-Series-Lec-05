@@ -66,3 +66,9 @@ found = False
 
 while i < len(contacts):
     name, phone = contacts[i]
+
+    if name == "Hamza":
+        print(f"Found Hamza: {phone}")
+        found = True
+        break
+
