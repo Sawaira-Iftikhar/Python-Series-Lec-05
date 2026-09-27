@@ -200,3 +200,5 @@ average = total / len(students)
 
 print(f"Topper: {topper} with {highest_score} marks")
 print(f"Class Average: {average}")
+
+#-----------------------------------------------------------------------------------------
