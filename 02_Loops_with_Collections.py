@@ -229,8 +229,9 @@ for a, (b, c) in matrix_data:
 # ==========================================
 
 # Q8. LOOPING THROUGH A LIST OF MIXED TYPES:
-#     Given: mixed = [10, "hello", 3.14, True, [1, 2], (3, 4)]
+#     Given:  [10, "hello", 3.14, True, [1, 2], (3, 4)]
 #     Loop through and print each item with its data type.
 #     Use an if condition to print ONLY the numeric values (int and float).
 
 
+mixed = [10, "hello", 3.14, True, [1, 2], (3, 4)]
