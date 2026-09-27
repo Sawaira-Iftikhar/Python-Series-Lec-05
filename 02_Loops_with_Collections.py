@@ -157,3 +157,5 @@ print("Grades:", grades)
 #     a) Print each color using a for loop
 #     b) Print the length of each color name
 #     c) Count how many colors have more than 4 characters
+
+colors = ("red", "green", "blue", "yellow", "purple")
