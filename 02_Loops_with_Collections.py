@@ -257,3 +257,6 @@ for item in mixed:
 
 keys = ["name", "age", "city", "role"]
 values = ["Zainab", 24, "Lahore", "Developer"]
+
+# Create a dictionary by matching each key with its value
+result = {}
