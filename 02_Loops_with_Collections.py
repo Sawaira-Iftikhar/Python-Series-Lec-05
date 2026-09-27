@@ -275,3 +275,5 @@ print(result)
 #      Print the flattened list and its length.
 
 nested_lists = [[1, 2, 3], [4, 5], [6, 7, 8, 9], [10]]
+
+flat = []
