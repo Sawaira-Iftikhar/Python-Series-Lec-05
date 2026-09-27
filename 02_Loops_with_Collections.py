@@ -277,3 +277,8 @@ print(result)
 nested_lists = [[1, 2, 3], [4, 5], [6, 7, 8, 9], [10]]
 
 flat = []
+
+# Loop through each nested list and add its items to flat
+for items in nested_lists:
+    for item in items:
+        flat.append(item)
