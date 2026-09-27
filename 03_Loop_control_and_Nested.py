@@ -92,3 +92,8 @@ row = 1
 # Outer while loop
 while row <= 5:
     col = 1
+
+       # Inner while loop (nested loop)
+    while col <= 5:
+        print(f"{row} x {col} = {row * col}", end="   ")
+        col += 1
