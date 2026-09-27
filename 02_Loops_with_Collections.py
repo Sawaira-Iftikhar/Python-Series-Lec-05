@@ -191,3 +191,7 @@ for name, score in students:
     print(f"{name} scored {score} marks")
 
     total += score
+
+    if score > highest_score:
+        highest_score = score
+        topper = name
