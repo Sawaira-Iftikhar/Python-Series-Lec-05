@@ -83,7 +83,7 @@ if not found:
 #  PART B: pass & NESTED LOOPS 
 # ==========================================
 
-# Q5. NESTED while LOOPS — Multiplication Table:
+# Q4. NESTED while LOOPS — Multiplication Table:
 #     Print the multiplication table from 1 to 5 (each up to 5).
 #     Use two nested for loops.
 
@@ -103,7 +103,7 @@ while row <= 5:
 
 #-----------------------------------------------------------------------------------------
 
-# Q6. NESTED LOOPS WITH LISTS:
+# Q5. NESTED LOOPS WITH LISTS:
 #     Given:
 #     categories = ["Fruits", "Vegetables"]
 #     items = [
