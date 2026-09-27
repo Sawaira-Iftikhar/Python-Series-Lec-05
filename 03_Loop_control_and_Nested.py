@@ -97,3 +97,6 @@ while row <= 5:
     while col <= 5:
         print(f"{row} x {col} = {row * col}", end="   ")
         col += 1
+        
+    print()
+    row += 1
