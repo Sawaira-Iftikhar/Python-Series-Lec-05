@@ -195,5 +195,8 @@ for name, score in students:
     if score > highest_score:
         highest_score = score
         topper = name
-        
+
 average = total / len(students)
+
+print(f"Topper: {topper} with {highest_score} marks")
+print(f"Class Average: {average}")
