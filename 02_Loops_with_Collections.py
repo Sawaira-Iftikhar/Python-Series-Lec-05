@@ -164,3 +164,6 @@ count = 0
 
 for color in colors:
     print(f"{color} ({len(color)} letters)")
+
+    if len(color) > 4:
+        count += 1
