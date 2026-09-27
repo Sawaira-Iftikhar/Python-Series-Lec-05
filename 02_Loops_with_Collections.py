@@ -189,3 +189,5 @@ total = 0
 
 for name, score in students:
     print(f"{name} scored {score} marks")
+
+    total += score
