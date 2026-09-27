@@ -29,3 +29,9 @@ while i < len(numbers):
 
 #-----------------------------------------------------------------------------------------
 
+# Q2. continue STATEMENT:
+#     Given: numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#     Use a for loop to print only ODD numbers.
+#     Skip even numbers using continue.
+
+
