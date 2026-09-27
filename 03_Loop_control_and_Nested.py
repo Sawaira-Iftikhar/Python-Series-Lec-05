@@ -146,3 +146,9 @@ for i in range(len(categories)):
 #     c) Find the index of "Go" using a loop with enumerate()
 
 languages = ["Python", "JavaScript", "Go", "Rust", "Java"]
+
+# 1) Print each language with its index
+for index, language in enumerate(languages):
+    print(f"{index}: {language}")
+
+print()
