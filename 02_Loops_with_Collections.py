@@ -212,3 +212,10 @@ print(f"Class Average: {average}")
 #     ]
 #     Use nested unpacking in a for loop: for a, (b, c) in matrix_data:
 #     Print: "a=1, b=2, c=3" for each row.
+
+matrix_data = [
+    (1, (2, 3)),
+    (4, (5, 6)),
+    (7, (8, 9))
+]
+
