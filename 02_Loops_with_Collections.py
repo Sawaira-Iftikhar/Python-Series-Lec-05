@@ -202,3 +202,13 @@ print(f"Topper: {topper} with {highest_score} marks")
 print(f"Class Average: {average}")
 
 #-----------------------------------------------------------------------------------------
+
+# Q7. NESTED TUPLE UNPACKING:
+#     Given:
+#     matrix_data = [
+#         (1, (2, 3)),
+#         (4, (5, 6)),
+#         (7, (8, 9))
+#     ]
+#     Use nested unpacking in a for loop: for a, (b, c) in matrix_data:
+#     Print: "a=1, b=2, c=3" for each row.
