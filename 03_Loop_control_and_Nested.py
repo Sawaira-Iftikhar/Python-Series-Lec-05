@@ -63,3 +63,6 @@ contacts = [
 
 i = 0
 found = False
+
+while i < len(contacts):
+    name, phone = contacts[i]
