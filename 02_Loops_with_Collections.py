@@ -182,3 +182,7 @@ print(f"Colors with > 4 chars: {count}")
 #     c) Calculate the class average
 
 students = [("Ali", 85), ("Sara", 92), ("Hamza", 78), ("Fatima", 95)]
+
+highest_score = 0
+topper = ""
+total = 0
