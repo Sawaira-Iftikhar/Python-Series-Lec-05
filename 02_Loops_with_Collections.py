@@ -286,3 +286,6 @@ for items in nested_lists:
 
 print(f"Flattened: {flat}")
 print(f"Length: {len(flat)}")
+
+#------------------------------------------------------------------------------------------
+
