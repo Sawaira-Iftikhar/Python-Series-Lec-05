@@ -171,3 +171,12 @@ for color in colors:
 print(f"Colors with > 4 chars: {count}")
 
 #-----------------------------------------------------------------------------------------
+
+# Q6. TUPLE UNPACKING IN LOOPS:
+#     Given a list of tuples:
+#     students = [("Ali", 85), ("Sara", 92), ("Hamza", 78), ("Fatima", 95)]
+#
+#     a) Use tuple unpacking in the for loop to print:
+#        "Ali scored 85 marks"
+#     b) Find the student with the highest score using a loop
+#     c) Calculate the class average
