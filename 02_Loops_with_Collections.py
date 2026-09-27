@@ -282,3 +282,7 @@ flat = []
 for items in nested_lists:
     for item in items:
         flat.append(item)
+
+
+print(f"Flattened: {flat}")
+print(f"Length: {len(flat)}")
