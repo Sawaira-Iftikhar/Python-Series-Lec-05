@@ -44,3 +44,13 @@ print(number, end=" ")
 
 #-----------------------------------------------------------------------------------------
 
+
+# Q3. break IN while LOOP:
+#     Simulate a search in a list of tuples:
+#     [("Ali", "555-0101"), ("Sara", "555-0202"),
+#                 ("Hamza", "555-0303"), ("Zainab", "555-0404")]
+#
+#     Search for "Hamza" using a while loop with an index counter.
+#     When found, print the phone number and break.
+#     If not found after checking all, print "Contact not found."
+
