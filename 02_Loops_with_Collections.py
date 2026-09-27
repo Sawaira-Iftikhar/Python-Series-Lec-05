@@ -180,3 +180,5 @@ print(f"Colors with > 4 chars: {count}")
 #        "Ali scored 85 marks"
 #     b) Find the student with the highest score using a loop
 #     c) Calculate the class average
+
+students = [("Ali", 85), ("Sara", 92), ("Hamza", 78), ("Fatima", 95)]
