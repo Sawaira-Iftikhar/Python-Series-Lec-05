@@ -20,3 +20,9 @@ numbers = [12, 45, 7, 23, 99, 34, 56, 8]
 
 i = 0
 
+while i < len(numbers):
+    if numbers[i] > 50:
+        print(f"First number > 50: {numbers[i]}")
+        break
+
+
