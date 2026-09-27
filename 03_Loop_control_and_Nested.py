@@ -25,4 +25,5 @@ while i < len(numbers):
         print(f"First number > 50: {numbers[i]}")
         break
 
+    i += 1
 
