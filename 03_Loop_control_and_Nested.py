@@ -72,3 +72,5 @@ while i < len(contacts):
         found = True
         break
 
+i += 1
+
