@@ -159,3 +159,5 @@ print("Grades:", grades)
 #     c) Count how many colors have more than 4 characters
 
 colors = ("red", "green", "blue", "yellow", "purple")
+
+count = 0
