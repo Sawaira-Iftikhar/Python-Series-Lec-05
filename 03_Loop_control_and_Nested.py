@@ -122,3 +122,7 @@ items = [
     ["Apple", "Banana", "Mango"],
     ["Carrot", "Spinach", "Potato"]
 ]
+
+# Outer loop: goes through each category
+for i in range(len(categories)):
+    print(f"{categories[i]}:", end=" ")
