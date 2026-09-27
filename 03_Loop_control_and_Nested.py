@@ -102,3 +102,16 @@ while row <= 5:
     row += 1
 
 #-----------------------------------------------------------------------------------------
+
+# Q6. NESTED LOOPS WITH LISTS:
+#     Given:
+#     categories = ["Fruits", "Vegetables"]
+#     items = [
+#         ["Apple", "Banana", "Mango"],
+#         ["Carrot", "Spinach", "Potato"]
+#     ]
+#     Use nested loops to print:
+#     "Fruits: Apple, Banana, Mango"
+#     "Vegetables: Carrot, Spinach, Potato"
+#
+#     HINT: Use range(len(categories)) to access both lists by index.
