@@ -140,7 +140,9 @@ for i in range(len(categories)):
 # ==========================================
 
 # Q7. enumerate() WITH LISTS:
-#     Given: languages = ["Python", "JavaScript", "Go", "Rust", "Java"]
+#     Given:  ["Python", "JavaScript", "Go", "Rust", "Java"]
 #     a) Print each language with its index using enumerate()
 #     b) Start the index from 1 instead of 0 using enumerate(..., start=1)
 #     c) Find the index of "Go" using a loop with enumerate()
+
+languages = ["Python", "JavaScript", "Go", "Rust", "Java"]
