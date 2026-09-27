@@ -62,3 +62,4 @@ contacts = [
 ]
 
 i = 0
+found = False
