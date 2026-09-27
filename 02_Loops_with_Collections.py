@@ -254,3 +254,6 @@ for item in mixed:
 #
 #     Create a dictionary by looping through both lists using range(len(keys)).
 #     Print the resulting dictionary.
+
+keys = ["name", "age", "city", "role"]
+values = ["Zainab", 24, "Lahore", "Developer"]
