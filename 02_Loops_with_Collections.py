@@ -240,3 +240,7 @@ for item in mixed:
     print(f"{item} → {type(item)}")
 
 print("--- Numeric values only ---")
+
+for item in mixed:
+    if isinstance(item, (int, float)) and not isinstance(item, bool):
+        print(item)
