@@ -219,3 +219,5 @@ matrix_data = [
     (7, (8, 9))
 ]
 
+for a, (b, c) in matrix_data:
+    print(f"a={a}, b={b}, c={c}")
