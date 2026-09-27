@@ -186,3 +186,6 @@ students = [("Ali", 85), ("Sara", 92), ("Hamza", 78), ("Fatima", 95)]
 highest_score = 0
 topper = ""
 total = 0
+
+for name, score in students:
+    print(f"{name} scored {score} marks")
