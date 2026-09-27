@@ -267,3 +267,9 @@ for i in range(len(keys)):
 print(result)
 
 #------------------------------------------------------------------------------------------
+
+# Q10. FLATTENING A LIST OF LISTS:
+#      Given: nested_lists = [[1, 2, 3], [4, 5], [6, 7, 8, 9], [10]]
+#      Use a nested for loop to flatten this into a single list:
+#      flat = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#      Print the flattened list and its length.
