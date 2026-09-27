@@ -151,3 +151,9 @@ print("Grades:", grades)
 # ==========================================
 #  PART B: LOOPING THROUGH TUPLES 
 # ==========================================
+
+# Q5. BASIC TUPLE ITERATION:
+#     Given: colors = ("red", "green", "blue", "yellow", "purple")
+#     a) Print each color using a for loop
+#     b) Print the length of each color name
+#     c) Count how many colors have more than 4 characters
