@@ -235,3 +235,6 @@ for a, (b, c) in matrix_data:
 
 
 mixed = [10, "hello", 3.14, True, [1, 2], (3, 4)]
+
+for item in mixed:
+    print(f"{item} → {type(item)}")
