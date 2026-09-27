@@ -161,3 +161,6 @@ print("Grades:", grades)
 colors = ("red", "green", "blue", "yellow", "purple")
 
 count = 0
+
+for color in colors:
+    print(f"{color} ({len(color)} letters)")
