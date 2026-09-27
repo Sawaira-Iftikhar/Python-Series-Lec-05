@@ -246,3 +246,11 @@ for item in mixed:
         print(item)
 
 #-----------------------------------------------------------------------------------------
+
+# Q9. CREATING A DICTIONARY FROM TWO LISTS USING A LOOP:
+#     Given:
+#     keys = ["name", "age", "city", "role"]
+#     values = ["Zainab", 24, "Lahore", "Developer"]
+#
+#     Create a dictionary by looping through both lists using range(len(keys)).
+#     Print the resulting dictionary.
