@@ -54,3 +54,9 @@ print(number, end=" ")
 #     When found, print the phone number and break.
 #     If not found after checking all, print "Contact not found."
 
+contacts = [
+    ("Ali", "555-0101"),
+    ("Sara", "555-0202"),
+    ("Hamza", "555-0303"),
+    ("Zainab", "555-0404")
+]
