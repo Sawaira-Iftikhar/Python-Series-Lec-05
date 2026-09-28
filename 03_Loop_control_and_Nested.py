@@ -34,12 +34,17 @@ while i < len(numbers):
 #     Use a while loop to print only ODD numbers.
 #     Skip even numbers using continue.
 
-num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-for number in num:
-    if number % 2 == 0:
+i = 0
+
+while i < len(values):
+    if values[i] % 2 == 0:
+        i += 1
         continue
-    print(number, end=" ")
+
+    print(values[i], end=" ")
+    i += 1
 
 #-----------------------------------------------------------------------------------------
 
