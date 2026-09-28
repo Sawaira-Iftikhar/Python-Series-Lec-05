@@ -31,16 +31,15 @@ while i < len(numbers):
 
 # Q2. continue STATEMENT:
 #     Given: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-#     Use a for loop to print only ODD numbers.
+#     Use a while loop to print only ODD numbers.
 #     Skip even numbers using continue.
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-for number in numbers:
+for number in num:
     if number % 2 == 0:
         continue
-
-print(number, end=" ")
+    print(number, end=" ")
 
 #-----------------------------------------------------------------------------------------
 
