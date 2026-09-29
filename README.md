@@ -11,4 +11,13 @@
 | 5 | Loop Control Statements (`break`, `continue`, `pass`) | ✅ |
 | 6 | Nested Loops & `enumerate()` / `zip()` | ✅ |
 
+
+
 ## 📂 Practice Files
+
+| File | Topics | Questions |
+|------|--------|:---------:|
+| `01_loops_basics.py` | `for` Loop, `while` Loop, `range()` | 10 |
+| `02_loops_with_collections.py` | Looping Through Lists & Tuples, Unpacking | 10 |
+| `03_loop_control_and_nested.py` | `break`, `continue`, `pass`, Nested Loops, `enumerate()`, `zip()` | 10 |
+| `04_challenge.py` | ALL Topics Mixed (Boss Level) | 3 |
