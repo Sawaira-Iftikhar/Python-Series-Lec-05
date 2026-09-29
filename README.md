@@ -17,7 +17,7 @@
 
 | File | Topics | Questions |
 |------|--------|:---------:|
-| `01_loops_basics.py` | `for` Loop, `while` Loop, `range()` | 10 |
+| `01_loops_basics.py` | `for` Loop, `while` Loop, `range()` | 07 |
 | `02_loops_with_collections.py` | Looping Through Lists & Tuples, Unpacking | 10 |
-| `03_loop_control_and_nested.py` | `break`, `continue`, `pass`, Nested Loops, `enumerate()`, `zip()` | 10 |
-| `04_challenge.py` | ALL Topics Mixed (Boss Level) | 3 |
+| `03_loop_control_and_nested.py` | `break`, `continue`, `pass`, Nested Loops, `enumerate()`, `zip()` | 0 |
+| `04_challenge.py` | ALL Topics Mixed (Boss Level) |  |
