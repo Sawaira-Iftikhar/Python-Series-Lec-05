@@ -24,7 +24,6 @@ while i < len(numbers):
     if numbers[i] > 50:
         print(f"First number > 50: {numbers[i]}")
         break
-
     i += 1
 
 #-----------------------------------------------------------------------------------------
@@ -36,16 +35,17 @@ while i < len(numbers):
 
 values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-i = 0
+a = 0
 
-while i < len(values):
-    if values[i] % 2 == 0:
-        i += 1
+while a < len(values):
+    if values[a] % 2 == 0:
+        a += 1
         continue
 
-    print(values[i], end=" ")
-    i += 1
+    print(values[a], end=" ")
+    a += 1
 
+print() 
 #-----------------------------------------------------------------------------------------
 
 
@@ -75,8 +75,7 @@ while i < len(contacts):
         print(f"Found Hamza: {phone}")
         found = True
         break
-
-i += 1
+    i += 1
 
 if not found:
     print("Contact not found.")

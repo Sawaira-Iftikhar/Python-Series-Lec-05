@@ -4,5 +4,4 @@
   Topics: ALL Loop Topics Combined
   Total Challenges: 
 ============================================
-
 """
