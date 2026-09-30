@@ -6,3 +6,8 @@
 ============================================
 
 """
+
+# ==========================================
+#  CHALLENGE 1: The Shopping Cart Processor 
+#  Topics: for Loop, Lists, Tuples, break, continue, enumerate
+# ==========================================
