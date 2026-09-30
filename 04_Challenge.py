@@ -40,3 +40,12 @@ Tasks:
 
 """
 
+cart = [
+    ("Wireless Mouse", 25.0, 2, True),
+    ("USB Cable", 5.0, 3, True),
+    ("Keyboard", 75.0, 1, False),
+    ("Monitor Stand", 45.0, 1, True),
+    ("Webcam", 60.0, 0, True),
+    ("Headphones", 35.0, 2, True)
+]
+
