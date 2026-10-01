@@ -40,6 +40,8 @@ Tasks:
 
 """
 
+
+# tuples in list
 cart = [
     ("Wireless Mouse", 25.0, 2, True),
     ("USB Cable", 5.0, 3, True),
