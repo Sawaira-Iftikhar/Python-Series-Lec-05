@@ -55,3 +55,9 @@ budget = 200.0
 total = 0.0
 purchased_items = []
 
+# Print section started form here
+print("=" * 50)
+print("             CHECKOUT PROCESSOR")
+print("=" * 50)
+print("Processing Cart...")
+print("-" * 50)
