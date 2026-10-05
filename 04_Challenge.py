@@ -51,3 +51,7 @@ cart = [
     ("Headphones", 35.0, 2, True)
 ]
 
+budget = 200.0
+total = 0.0
+purchased_items = []
+
