@@ -65,3 +65,7 @@ print("-" * 50)
 item_number = 0
 
 for index, (name, price, quantity, is_available) in enumerate(cart):
+
+      if not is_available:
+        print(f" Skipping {name} — Out of stock!")
+        continue
