@@ -82,4 +82,6 @@ for index, (name, price, quantity, is_available) in enumerate(cart):
  
       total += line_total
       item_number += 1
+
+      purchased_items.append((name, price, quantity, line_total))
  
