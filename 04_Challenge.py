@@ -84,4 +84,11 @@ for index, (name, price, quantity, is_available) in enumerate(cart):
       item_number += 1
 
       purchased_items.append((name, price, quantity, line_total))
+
+      print(
+        f"{item_number}. {name:<18} | "
+        f"Qty: {quantity} | "
+        f"${price:.2f} | "
+        f"Line: ${line_total:.2f}"
+     )
  
