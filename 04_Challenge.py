@@ -76,4 +76,8 @@ for index, (name, price, quantity, is_available) in enumerate(cart):
 
       line_total = price * quantity
 
+      if total + line_total > budget:
+        print(f" Budget exceeded! Stopping at {name}.")
+        break
+
  
