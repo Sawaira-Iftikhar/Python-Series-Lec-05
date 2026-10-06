@@ -61,3 +61,5 @@ print("             CHECKOUT PROCESSOR")
 print("=" * 50)
 print("Processing Cart...")
 print("-" * 50)
+
+item_number = 0
