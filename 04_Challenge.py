@@ -63,3 +63,5 @@ print("Processing Cart...")
 print("-" * 50)
 
 item_number = 0
+
+for index, (name, price, quantity, is_available) in enumerate(cart):
