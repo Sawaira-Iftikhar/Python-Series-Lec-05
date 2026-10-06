@@ -69,3 +69,11 @@ for index, (name, price, quantity, is_available) in enumerate(cart):
       if not is_available:
         print(f" Skipping {name} — Out of stock!")
         continue
+
+      if quantity == 0:
+        print(f" Skipping {name} — Quantity is 0!")
+        continue
+
+      line_total = price * quantity
+
+ 
