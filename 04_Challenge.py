@@ -147,3 +147,6 @@ students = [
 
 subjects = ("Math", "Physics", "Computer Science")
 passing_marks = 50
+
+student_results = []
+subject_marks = []
