@@ -156,3 +156,9 @@ print("           CLASS PERFORMANCE REPORT")
 print("=" * 50)
 print(f"{'Student':<12}{'Math':<6}{'Physics':<9}{'CS':<7}{'Total':<7}{'Avg':<6}Status")
 print("-" * 65)
+
+for name, marks in students:
+    total = sum(marks)
+    average = total / len(marks)
+    highest = max(marks)
+    lowest = min(marks)
