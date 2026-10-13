@@ -150,3 +150,9 @@ passing_marks = 50
 
 student_results = []
 subject_marks = []
+
+print("=" * 50)
+print("           CLASS PERFORMANCE REPORT")
+print("=" * 50)
+print(f"{'Student':<12}{'Math':<6}{'Physics':<9}{'CS':<7}{'Total':<7}{'Avg':<6}Status")
+print("-" * 65)
