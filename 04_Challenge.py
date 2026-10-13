@@ -107,3 +107,32 @@ print("=" * 50)
 #  Difficulty: Hard
 # ==========================================
  
+"""
+You are a teacher analyzing class performance across multiple subjects.
+
+Given Student Data (list of tuples):
+students = [
+    ("Ali", (88, 76, 92)),      # (Math, Physics, CS)
+    ("Sara", (95, 89, 97)),
+    ("Hamza", (60, 55, 70)),
+    ("Fatima", (78, 82, 85)),
+    ("Zayd", (45, 50, 40))
+]
+
+subjects = ("Math", "Physics", "Computer Science")
+passing_marks = 50
+
+Tasks:
+1. For each student, calculate:
+   a) Total marks (sum of all subjects)
+   b) Average marks
+   c) Highest subject score
+   d) Lowest subject score
+2. Determine if the student PASSED or FAILED:
+   - Pass: ALL subjects >= passing_marks
+   - Fail: ANY subject < passing_marks
+3. Find the class topper (highest average).
+4. Find the subject with the highest class average using zip().
+5. Print a detailed report card.
+
+"""
