@@ -100,4 +100,10 @@ print(f"   Budget remaining: ${budget - total:.2f}")
 print("=" * 50)
 
 #-----------------------------------------------------------------------------------------``
+
+# ==========================================
+#  CHALLENGE 2: The Grade Analyzer & Ranker 
+#  Topics: Nested Loops, Lists of Tuples, zip(), Sorting Logic
+#  Difficulty: Hard
+# ==========================================
  
