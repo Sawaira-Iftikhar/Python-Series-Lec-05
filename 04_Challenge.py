@@ -144,3 +144,6 @@ students = [
     ("Fatima", (78, 82, 85)),
     ("Zayd", (45, 50, 40))
 ]
+
+subjects = ("Math", "Physics", "Computer Science")
+passing_marks = 50
