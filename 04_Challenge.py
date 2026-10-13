@@ -91,4 +91,11 @@ for index, (name, price, quantity, is_available) in enumerate(cart):
         f"${price:.2f} | "
         f"Line: ${line_total:.2f}"
      )
+
+print("-" * 50)
+print(" Receipt Summary:")
+print(f"   Items purchased: {item_number}")
+print(f"   Total: ${total:.2f}")
+print(f"   Budget remaining: ${budget - total:.2f}")
+print("=" * 50)
  
