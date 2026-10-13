@@ -136,3 +136,11 @@ Tasks:
 5. Print a detailed report card.
 
 """
+
+students = [
+    ("Ali", (88, 76, 92)),
+    ("Sara", (95, 89, 97)),
+    ("Hamza", (60, 55, 70)),
+    ("Fatima", (78, 82, 85)),
+    ("Zayd", (45, 50, 40))
+]
