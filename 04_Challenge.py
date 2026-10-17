@@ -306,3 +306,9 @@ for row in rows:
 print("\n" + "=" * 50)
 print("            MATRIX BUILDER")
 print("=" * 50)
+
+# Print column headings
+print("      ", end="")
+for col in cols:
+    print(f"{col:<8}", end="")
+print()
