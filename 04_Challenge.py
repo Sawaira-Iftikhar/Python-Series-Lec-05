@@ -293,3 +293,5 @@ for i in range(2, 0, -1):
 
 rows = ["R1", "R2", "R3"]
 cols = ["C1", "C2", "C3", "C4"]
+
+matrix = []
