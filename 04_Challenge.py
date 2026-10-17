@@ -164,9 +164,9 @@ for name, marks in students:
     lowest = min(marks)
 
     if all(mark >= passing_marks for mark in marks):
-        status = "✅ PASS"
+        status = " PASS"
     else:
-        status = "❌ FAIL"
+        status = " FAIL"
 
     student_results.append((name, average))
     subject_marks.append(marks)
