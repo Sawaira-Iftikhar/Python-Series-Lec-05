@@ -203,3 +203,5 @@ print(
     f" Weakest Subject: {subjects[weakest_index]} "
     f"(Class Avg: {subject_averages[weakest_index]:.1f})"
 )
+
+print("=" * 50)
