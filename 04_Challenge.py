@@ -170,3 +170,8 @@ for name, marks in students:
 
     student_results.append((name, average))
     subject_marks.append(marks)
+
+    print(
+        f"{name:<12}{marks[0]:<6}{marks[1]:<9}"
+        f"{marks[2]:<7}{total:<7}{average:<6.1f}{status}"
+    )
