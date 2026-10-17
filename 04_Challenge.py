@@ -183,3 +183,10 @@ print("-" * 65)
 # Find the class topper
 topper = max(student_results, key=lambda student: student[1])
 print(f" Class Topper: {topper[0]} (Avg: {topper[1]:.1f})")
+
+# Calculate subject averages using zip()
+all_marks = zip(*[marks for name, marks in students])
+subject_averages = [
+    sum(marks) / len(students)
+    for marks in all_marks
+]
