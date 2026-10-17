@@ -242,6 +242,11 @@ Pattern 3 — Diamond (Bonus):
     *
 """
 
+
+# ==========================================
+# PART A — PATTERN GENERATOR
+# ==========================================
+
 print("=" * 50)
 print("           PATTERN GENERATOR")
 print("=" * 50)
