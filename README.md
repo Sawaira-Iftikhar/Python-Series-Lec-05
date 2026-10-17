@@ -80,3 +80,5 @@ for num, letter in pairs:
 | `break`   | Exist the loop immediately|
 | `continue`| Skips the rest of the current iteration, jumps to next|
 | `pass`    | Does nothing - acts as a placeholder|
+
+### 5. enumerate() & zip()
