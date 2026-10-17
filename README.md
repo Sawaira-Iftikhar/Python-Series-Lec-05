@@ -51,3 +51,24 @@ list(range(0, 10, 2)) # [0, 2, 4, 6, 8]
 list(range(5, 0, -1)) # [5, 4, 3, 2, 1]
 ```
 ### 3. Looping Through Lists & Tuples
+
+```python
+fruits = ["apple", "banana", "cherry"]
+
+# Direct iteration (Pythonic ✅)
+for fruit in fruits:
+    print(fruit)
+
+# Index-based iteration
+for i in range(len(fruits)):
+    print(f"{i}: {fruits[i]}")
+
+# With enumerate (Best for index + value)
+for index, fruit in enumerate(fruits):
+    print(f"{index}: {fruit}")
+
+# Tuple unpacking in loop
+pairs = [(1, "a"), (2, "b"), (3, "c")]
+for num, letter in pairs:
+    print(f"{num} -> {letter}")
+```
