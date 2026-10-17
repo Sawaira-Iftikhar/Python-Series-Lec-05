@@ -95,3 +95,5 @@ for name, score in zip(names, scores):
     print(f"{name}: {score}")
 ```
 </details>
+
+## 📅 Series Progress
