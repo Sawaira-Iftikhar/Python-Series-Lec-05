@@ -190,3 +190,6 @@ subject_averages = [
     sum(marks) / len(students)
     for marks in all_marks
 ]
+
+best_index = subject_averages.index(max(subject_averages))
+weakest_index = subject_averages.index(min(subject_averages))
