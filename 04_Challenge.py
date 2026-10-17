@@ -193,3 +193,8 @@ subject_averages = [
 
 best_index = subject_averages.index(max(subject_averages))
 weakest_index = subject_averages.index(min(subject_averages))
+
+print(
+    f" Best Subject: {subjects[best_index]} "
+    f"(Class Avg: {subject_averages[best_index]:.1f})"
+)
