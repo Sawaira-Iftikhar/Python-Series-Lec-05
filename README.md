@@ -21,3 +21,5 @@
 | [02_loops_with_collections.py](02_loops_with_collections.py) | Looping Through Lists & Tuples, Unpacking | 10 |
 | [02_loops_with_collections.py](03_loop_control_and_nested.py) | `break`, `continue`, `pass`, Nested Loops, `enumerate()`, `zip()` | 07 |
 | [04_challenge.py](04_challenge.py) | ALL Topics Mixed (Boss Level) | 10 |
+
+## 💡 Quick Cheat Sheet (Lecture 5 Highlights) 
