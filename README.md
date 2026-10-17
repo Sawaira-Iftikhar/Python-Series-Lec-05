@@ -74,3 +74,6 @@ for num, letter in pairs:
 ```
 
 ### 4. Loop Control Statements
+
+| Statement | What It Does |
+|-----------|--------------|
