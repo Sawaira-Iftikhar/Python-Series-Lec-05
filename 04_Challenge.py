@@ -175,3 +175,7 @@ for name, marks in students:
         f"{name:<12}{marks[0]:<6}{marks[1]:<9}"
         f"{marks[2]:<7}{total:<7}{average:<6.1f}{status}"
     )
+
+    print(f"   Highest score: {highest} | Lowest score: {lowest}")
+
+print("-" * 65)
