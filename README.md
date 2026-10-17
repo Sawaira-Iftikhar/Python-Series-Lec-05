@@ -116,3 +116,5 @@ If you found this helpful or have any questions:
 🌐 Connect with me: LinkedIn • YouTube • Twitter/X
 
 ## ⭐ Support
+
+If you find this repository helpful, please consider giving it a Star (⭐)! It helps others discover this learning roadmap.
