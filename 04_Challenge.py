@@ -253,3 +253,6 @@ for i in range(1, 6):
     for j in range(i):
         print("*", end=" ")
     print()
+
+# Pattern 2 — Number Pyramid
+print("\nPattern 2 — Number Pyramid:")
