@@ -337,3 +337,5 @@ for i in range(len(matrix)):
 
     if found:
         break
+
+print("=" * 50)
