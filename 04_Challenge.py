@@ -312,3 +312,10 @@ print("      ", end="")
 for col in cols:
     print(f"{col:<8}", end="")
 print()
+
+# Print the matrix in a formatted grid
+for i in range(len(matrix)):
+    print(f"{rows[i]:<4} ", end="")
+    for j in range(len(matrix[i])):
+        print(f"| {matrix[i][j]:<5}", end=" ")
+    print("|")
