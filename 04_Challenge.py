@@ -321,3 +321,9 @@ for i in range(len(matrix)):
     print("|")
 
 print("-" * 50)
+
+# Search for R2C3 using nested loops and break
+target = "R2C3"
+found = False
+
+print(f"🔍 Searching for '{target}'...")
