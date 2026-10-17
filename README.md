@@ -82,3 +82,15 @@ for num, letter in pairs:
 | `pass`    | Does nothing - acts as a placeholder|
 
 ### 5. enumerate() & zip()
+
+```python 
+# enumerate: gives index + value
+for i, val in enumerate(["x", "y", "z"], start=1):
+    print(f"{i}. {val}")  # 1. x  2. y  3. z
+
+# zip: combines two iterables
+names = ["Ali", "Sara"]
+scores = [90, 95]
+for name, score in zip(names, scores):
+    print(f"{name}: {score}")
+```
