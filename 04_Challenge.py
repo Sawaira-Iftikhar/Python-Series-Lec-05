@@ -248,3 +248,8 @@ print("=" * 50)
 
 # Pattern 1 — Right Triangle
 print("\nPattern 1 — Right Triangle:")
+
+for i in range(1, 6):
+    for j in range(i):
+        print("*", end=" ")
+    print()
