@@ -167,3 +167,6 @@ for name, marks in students:
         status = "✅ PASS"
     else:
         status = "❌ FAIL"
+
+    student_results.append((name, average))
+    subject_marks.append(marks)
