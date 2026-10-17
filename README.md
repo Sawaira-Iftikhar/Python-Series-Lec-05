@@ -13,7 +13,6 @@ Lecture 05 of 9 — Python Loops in Detail: for, while, Lists & Tuples in Loops,
 | 6 | Nested Loops & `enumerate()` / `zip()` | ✅ |
 
 
-
 ## 📂 Practice Files
 
 | File | Topics | Questions |
