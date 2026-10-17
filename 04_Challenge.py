@@ -241,3 +241,7 @@ Pattern 3 — Diamond (Bonus):
    * *
     *
 """
+
+print("=" * 50)
+print("           PATTERN GENERATOR")
+print("=" * 50)
