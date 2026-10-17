@@ -264,5 +264,12 @@ for i in range(1, 6):
         print(j, end=" ")
     print()
 
-# Pattern 3 — Diamond (Bonus)
+# Pattern 3 — Diamond 
 print("\nPattern 3 — Diamond:")
+
+for i in range(1, 4):
+    for j in range(3 - i):
+        print(" ", end=" ")
+    for j in range(i):
+        print("*", end=" ")
+    print()
