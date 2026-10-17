@@ -295,3 +295,10 @@ rows = ["R1", "R2", "R3"]
 cols = ["C1", "C2", "C3", "C4"]
 
 matrix = []
+
+# Build the matrix using nested loops
+for row in rows:
+    current_row = []
+    for col in cols:
+        current_row.append(row + col)
+    matrix.append(current_row)
