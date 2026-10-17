@@ -28,3 +28,12 @@
 <summary><b>Click to expand quick revision notes</b></summary>
 
 <br>
+
+### 1. Loop Types at a Glance
+
+| Feature | `for` Loop | `while` Loop |
+|---------|-----------|-------------|
+| Use When | You know how many iterations | You don't know; condition-based |
+| Syntax | `for item in iterable:` | `while condition:` |
+| Risk | Almost none | Infinite loop if condition never becomes `False` |
+| Best For | Lists, Tuples, Strings, Ranges | User input, counters, game loops |
