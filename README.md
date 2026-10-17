@@ -94,3 +94,4 @@ scores = [90, 95]
 for name, score in zip(names, scores):
     print(f"{name}: {score}")
 ```
+</details>
