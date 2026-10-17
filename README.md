@@ -107,3 +107,5 @@ for name, score in zip(names, scores):
 - [ ] **Lecture 07** — Coming Soon
 - [ ] **Lecture 08** — Coming Soon
 - [ ] **Lecture 09** — Coming Soon
+
+## 🤝 Connect & Feedback
