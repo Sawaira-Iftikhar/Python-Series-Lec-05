@@ -319,3 +319,5 @@ for i in range(len(matrix)):
     for j in range(len(matrix[i])):
         print(f"| {matrix[i][j]:<5}", end=" ")
     print("|")
+
+print("-" * 50)
