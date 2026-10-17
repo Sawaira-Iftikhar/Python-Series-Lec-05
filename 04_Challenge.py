@@ -198,3 +198,8 @@ print(
     f" Best Subject: {subjects[best_index]} "
     f"(Class Avg: {subject_averages[best_index]:.1f})"
 )
+
+print(
+    f" Weakest Subject: {subjects[weakest_index]} "
+    f"(Class Avg: {subject_averages[weakest_index]:.1f})"
+)
