@@ -207,3 +207,9 @@ print(
 print("=" * 50)
 
 #------------------------------------------------------------------------------------------
+
+# ==========================================
+#  CHALLENGE 3: The Pattern Generator & Matrix Builder 
+#  Topics: Nested Loops, break, Lists, Tuples, enumerate
+#  Difficulty: Very Hard 
+# ==========================================
