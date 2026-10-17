@@ -327,3 +327,13 @@ target = "R2C3"
 found = False
 
 print(f"🔍 Searching for '{target}'...")
+
+for i in range(len(matrix)):
+    for j in range(len(matrix[i])):
+        if matrix[i][j] == target:
+            print(f"Found at Row: {i}, Col: {j}")
+            found = True
+            break
+
+    if found:
+        break
