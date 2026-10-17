@@ -77,3 +77,6 @@ for num, letter in pairs:
 
 | Statement | What It Does |
 |-----------|--------------|
+| `break`   | Exist the loop immediately|
+| `continue`| Skips the rest of the current iteration, jumps to next|
+| `pass`    | Does nothing - acts as a placeholder|
