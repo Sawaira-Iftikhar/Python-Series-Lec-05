@@ -1,6 +1,6 @@
 # Python-Series-Lec-05
 
-Lecture 05 of 9 — Python Loops in Detail: for, while, Lists & Tuples in Loops, break/continue, Nested Loops, enumerate() & zip(). 33 hands-on questions.
+Lecture 05 of 9 — Python Loops in Detail: for, while, Lists & Tuples in Loops, break/continue, Nested Loops, enumerate() & zip(). almost 33 hands-on questions.
 
 ## 📚 Topics Covered
 | # | Topic | Status |
