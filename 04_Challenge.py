@@ -245,3 +245,6 @@ Pattern 3 — Diamond (Bonus):
 print("=" * 50)
 print("           PATTERN GENERATOR")
 print("=" * 50)
+
+# Pattern 1 — Right Triangle
+print("\nPattern 1 — Right Triangle:")
