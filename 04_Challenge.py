@@ -179,3 +179,7 @@ for name, marks in students:
     print(f"   Highest score: {highest} | Lowest score: {lowest}")
 
 print("-" * 65)
+
+# Find the class topper
+topper = max(student_results, key=lambda student: student[1])
+print(f" Class Topper: {topper[0]} (Avg: {topper[1]:.1f})")
