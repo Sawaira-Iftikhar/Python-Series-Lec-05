@@ -213,3 +213,31 @@ print("=" * 50)
 #  Topics: Nested Loops, break, Lists, Tuples, enumerate
 #  Difficulty: Very Hard 
 # ==========================================
+
+"""
+Build a pattern generator and a matrix manipulation tool.
+
+PART A — Pattern Generator:
+Using nested for loops, print the following patterns:
+
+Pattern 1 — Right Triangle:
+*
+* *
+* * *
+* * * *
+* * * * *
+
+Pattern 2 — Number Pyramid:
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+
+Pattern 3 — Diamond (Bonus):
+    *
+   * *
+  * * *
+   * *
+    *
+"""
