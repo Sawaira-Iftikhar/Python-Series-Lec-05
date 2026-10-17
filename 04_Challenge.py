@@ -162,3 +162,8 @@ for name, marks in students:
     average = total / len(marks)
     highest = max(marks)
     lowest = min(marks)
+
+    if all(mark >= passing_marks for mark in marks):
+        status = "✅ PASS"
+    else:
+        status = "❌ FAIL"
